@@ -105,7 +105,7 @@ JOptionPane.showMessageDialog(null, "game is over.");
 		for (int i = 0; i < 4; i++) {
 			rob.move(200);
 			rob.turn(90);
-			rob.setSpeed(50);
+			rob.setSpeed(100);
 		}
 	}	
 }
